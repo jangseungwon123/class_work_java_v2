@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 /**
  * 자바로 DB에 접근하는 기술을 습득해보자.
- * DB 접근 기술
+ * DB 접근 기술 dd
  */
 public class JDBCExample {
 
