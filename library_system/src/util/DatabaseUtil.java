@@ -11,7 +11,7 @@ import java.sql.SQLException;
  */
 public class DatabaseUtil {
 
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/school?serverTimezone=Asia/Seoul";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/library?serverTimezone=Asia/Seoul";
     private static final String DB_USER = "root";
     private static final String DB_PASSWORD = "asd1234";
 
